@@ -1,0 +1,21 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Client - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x409 /fo"Debug/Client.res" /d "_DEBUG" /d "_AFXDLL" "E:\Users\Tom\Projects\Educational CD's\VC ++\Unedited\Source\Tutorial 5\Client\Client.rc"" 
+Creating command line "link.exe /nologo /subsystem:windows /incremental:yes /pdb:"Debug/Client.pdb" /debug /machine:I386 /out:"Debug/Client.exe" /pdbtype:sept  ".\Debug\Client.obj" ".\Debug\ClientDlg.obj" ".\Debug\StdAfx.obj" ".\Debug\Client.res" ".\Debug\ClientSocket.obj" "
+<h3>Output Window</h3>
+Compiling resources...
+Linking...
+
+
+
+<h3>Results</h3>
+Client.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

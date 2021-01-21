@@ -1,0 +1,2 @@
+C:\Users\Moses\Desktop\VCPP_NETWORKING_CLIENT_SERVER147\Client\Debug\Client.exe
+C:\Users\Moses\Desktop\VCPP_NETWORKING_CLIENT_SERVER147\Client\Debug\Client.pdb

@@ -1,0 +1,10 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  StdAfx.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  ClientSocket.cpp
+  ClientDlg.cpp
+  Client.cpp
+C:\Users\Moses\Desktop\VCPP_NETWORKING_CLIENT_SERVER147\Client\Client.cpp(58,2): warning C4996: 'CWinApp::Enable3dControls': CWinApp::Enable3dControls is no longer needed. You should remove this call.
+  Generating Code...
+  Client.vcxproj -> C:\Users\Moses\Desktop\VCPP_NETWORKING_CLIENT_SERVER147\Client\.\Debug\Client.exe
